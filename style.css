@@ -429,9 +429,9 @@ ul, ol, dl, dd { margin: 0; padding: 0; list-style: none; }
   .hero__stats div { padding-right: 14px; margin-right: 14px; }
   .hero__stats dd { font-size: 30px; }
   .hero__media { height: 320px; order: -1; }
-  .hud { width: 90px; height: 90px; margin: -45px 0 0 -45px; left: 42%; top: 80%; }
+  .hud { width: 90px; height: 90px; margin: -45px 0 0 -45px; left: 25%; top: 80%; }
   .hud::after { width: 34px; }
-  .hud-tag { left: calc(42% + 80px); top: calc(80% - 30px); padding: 10px 14px; }
+  .hud-tag { left: calc(25% + 80px); top: calc(80% - 30px); padding: 10px 14px; }
   .hud-tag b { font-size: 24px; }
   .hero__side { display: none; }
   .sec { padding: 64px 0; }
